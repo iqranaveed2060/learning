@@ -1,0 +1,1 @@
+print("kuch b likh do")
