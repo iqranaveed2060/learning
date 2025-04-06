@@ -1,0 +1,1 @@
+# logical operators are short circuit in Python
